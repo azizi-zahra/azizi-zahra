@@ -1,5 +1,5 @@
 # Hi There! I'm Zahra Azizi ✨
- a passionate computer engineering student with a keen interest in back-end development. I'm learning various programming languages and technologies, such as Java, Python, and C++. Furthermore, I strive to continually expand my knowledge and skills. I enjoy working on challenging projects and collaborating with others to bring ideas to life.
+ A passionate computer engineering student with a keen interest in back-end development. I'm learning various programming languages and technologies, such as Java, Python, and C++. Furthermore, I strive to continually expand my knowledge and skills. I enjoy working on challenging projects and collaborating with others to bring ideas to life.
  
 ---
   
