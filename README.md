@@ -10,7 +10,7 @@
   
 - 👀 I’m interested in **back-end software development & competitive programming.**  
   
-- 📫 How to reach me **[Telegram](https://t.me/zahraAziziT) | [Email](azizi.zahra.tehran@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zahra-azizi-t1384/)**  
+- 📫 How to reach me: **[Telegram](https://t.me/zahraAziziT) | [Email](azizi.zahra.tehran@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zahra-azizi-t1384/)**  
   
 - ⚡ Fun fact **I enjoy reading books.**  
 
