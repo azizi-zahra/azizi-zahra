@@ -4,16 +4,7 @@
 ---
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahraazizigit" alt="zahraazizigit" /></a> </p>  
-
-  
-- 🌱 I’m currently learning **Python & Django.**  
-  
-- 👀 I’m interested in **back-end software development & competitive programming.**  
-  
-- 📫 How to reach me: **[Telegram](https://t.me/zahraAziziT) | [Email](azizi.zahra.tehran@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zahra-azizi-t1384/)**  
-  
-- ⚡ Fun fact **I enjoy reading books.**  
-
+ 
 <h3 align="left">Languages and Tools:</h3>  
 
 
