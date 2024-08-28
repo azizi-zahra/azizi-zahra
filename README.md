@@ -21,11 +21,14 @@ Additionally, I strive to continually expand my knowledge and skills. I enjoy wo
 
 <p align="center">
 <a href="mailto:azizi.zahra.tehran@gmail.com"><img src="https://img.shields.io/badge/-gmail-B23121?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/zahraAziziT"><img src="https://img.shields.io/badge/-Telegram-00acee?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href=https://www.linkedin.com/in/zahra-azizi-t1384/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://quera.org/profile/ZahraAzizi"><img src="https://img.shields.io/badge/-Quera profile-00acee?style=for-the-badge&logo=&logoColor=white"/></a>
 </p>
 
 <details><summary><b>📊 GitHub Stats</b></summary>
+
+<br>
 
 - 🖥 Top Languages
 <p align="center"><img height="164em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahraazizigit&show_icons=true&locale=en&layout=compact" alt="zahraazizigit" /></p>  
