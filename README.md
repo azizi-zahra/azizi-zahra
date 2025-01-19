@@ -4,7 +4,7 @@ I'm a passionate computer engineering student with a keen interest in learning m
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahraazizigit" alt="zahraazizigit" /></a> </p> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizi-zahra" alt="azizi-zahra" /></a> </p> 
 
 ### 🛠 Languages and Tools:
 
@@ -22,7 +22,7 @@ I'm a passionate computer engineering student with a keen interest in learning m
 </p>
 
 ### 🖥 Top Languages
-<p align="center"><img height="164em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahraazizigit&show_icons=true&locale=en&layout=compact" alt="zahraazizigit" /></p>  
+<p align="center"><img height="164em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizi-zahra&show_icons=true&locale=en&layout=compact" alt="zahraazizigit" /></p>  
 
 <details><summary><b>📊 GitHub Stats</b></summary>
 
@@ -30,9 +30,9 @@ I'm a passionate computer engineering student with a keen interest in learning m
 
  - 📈 Stats
 
-<p align="center">&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=zahraazizigit&show_icons=true&locale=en" alt="zahraazizigit" /></p>  
+<p align="center">&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=azizi-zahra&show_icons=true&locale=en" alt="azizi-zahra" /></p>  
 
 - ⚡ Streak  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahraazizigit&" alt="zahraazizigit" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizi-zahra&" alt="azizi-zahra" /></p>
  </details>   
