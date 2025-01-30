@@ -34,5 +34,5 @@ I'm a passionate computer engineering student with a keen interest in learning m
 
 - ⚡ Streak  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizi-zahra&" alt="azizi-zahra" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=azizi-zahra&" alt="azizi-zahra" /></p>
  </details>   
