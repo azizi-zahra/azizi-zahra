@@ -23,16 +23,3 @@ I'm a passionate computer engineering student with a keen interest in learning m
 
 ### 🖥 Top Languages
 <p align="center"><img height="164em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizi-zahra&show_icons=true&locale=en&layout=compact" alt="zahraazizigit" /></p>  
-
-<details><summary><b>📊 GitHub Stats</b></summary>
-
-<br>
-
- - 📈 Stats
-
-<p align="center">&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=azizi-zahra&show_icons=true&locale=en" alt="azizi-zahra" /></p>  
-
-- ⚡ Streak  
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=azizi-zahra&" alt="azizi-zahra" /></p>
- </details>   
