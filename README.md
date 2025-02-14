@@ -10,7 +10,7 @@ I'm a passionate computer engineering student with a keen interest in learning m
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,java,vscode,ubuntu,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,vscode,ubuntu,linux,git)](https://skillicons.dev)
 
   </p>  
 
